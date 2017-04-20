@@ -1,0 +1,17 @@
+Accuracy =
+
+    0.8532
+
+
+
+
+Accuracy =
+
+    0.8532
+
+>> Untitled4
+>> Accuracy
+
+Accuracy =
+
+    0.8329
